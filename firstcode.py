@@ -16,4 +16,4 @@ elif (op=='/'):
     print(f'The quotient of {x} and {y} is {result}\n')
 else:
     print('Invalid entry for operator. Please re-input\n')
-print('Thnak you and goodbye!')
+print('Thank you and goodbye!')
